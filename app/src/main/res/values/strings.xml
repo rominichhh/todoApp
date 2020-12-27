@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="welcome_message">Bienvenidos a mi App</string>
+    <string name="my_tasks">Mis Tareas</string>
+    <string name="new_task">Nueva Tarea</string>
+    <string name="title_terms_and_conditions">Terminos y Condiciones</string>
+</resources>
